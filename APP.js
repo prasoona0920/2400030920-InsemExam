@@ -1,2 +1,3 @@
-// app.js
-console.log("Initial app");
+"// App.js created" 
+"console.log('App loaded');" 
+"function Login() { return <h2>Login</h2>; }" 
